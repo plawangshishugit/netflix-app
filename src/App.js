@@ -1,8 +1,10 @@
 import React from 'react'
+import Home from '../src/pages/Home/Home'
+
 
 const App = () => {
   return (
-    <div>App</div>
+    <div><Home/></div>
   )
 }
 
